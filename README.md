@@ -2,7 +2,7 @@
 
 This library provides my-number related functions. But currently it only supports my-number validation.
 
-('My-number' a.k.a "マイナンバー", strictly speaking "個人番号" (personal number), is a personal identificaiton number used in Japan.)
+('My-number' a.k.a "マイナンバー", strictly speaking "個人番号" (personal number), is the personal identificaiton number used in Japan.)
 
 ## Installation
 

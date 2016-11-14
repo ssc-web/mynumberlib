@@ -6,8 +6,8 @@ require 'mynumberlib/version'
 Gem::Specification.new do |spec|
   spec.name          = "mynumberlib"
   spec.version       = Mynumberlib::VERSION
-  spec.authors       = ["ksaito"]
-  spec.email         = ["ksaito@tsscgw.lamp"]
+  spec.authors       = ["ksaitou-ssc"]
+  spec.email         = ["ksaitou@shinwart.co.jp"]
 
   spec.summary       = "A my-number (personal identification numbers used in Japan) library."
   spec.description   = "Provides my-number related functions."
